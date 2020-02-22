@@ -4,11 +4,6 @@ This repository explores the different ways to generate machine art, particularl
 ## Usage
 Run the ipython notebook -> provide style image and content image.
 
--------------------------------
-## Notes.
-The Style transfer - using optimization is working.
-I could not get the Fast style transfer to work - Initial dataset used -> `COCO training 2014` - 80k training images. 
-
 ## References:
 I have taken references from a couple of other implementations,
 1) `Keras` official implementation of style transfer : \
